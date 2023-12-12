@@ -54,6 +54,10 @@ class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:_
 ![Alt text](Gambar/image-8.png)
 
 ### Flowchart
+<p align="center">
+  ![Alt text](Gambar/image-9.png)
+</p>
+
 ![Alt text](Gambar/image-9.png)
 
 # Terima Kasih
